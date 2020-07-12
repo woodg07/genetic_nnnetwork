@@ -1,1 +1,1 @@
-# gentetic_nnnetwork
+# genetic_nnnetwork
